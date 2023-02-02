@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **joshuaazumah6801@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/azumahjoshuazilamyee/](https://www.linkedin.com/in/azumahjoshuazilamyee/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/azumahjoshuazilamyee/](https://www.linkedin.com/in/azumahjoshua/)
 
 - ⚡ Fun fact **Alan Turing was another incredibly famous mathematician who was also born in England, on June 23, 1912. In the computer science community, he is predominantly recognized as the father of modern-day computer science.**
 
