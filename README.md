@@ -31,7 +31,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/azumahjoshua](https://codepen.io/azumahjoshua)
 
-- 💬 Ask me about **Python/Java/JavaScript/Cloud Computing**
+- 💬 Ask me about **Python/PHP/NodeJs/JavaScript/Cloud Computing**
 
 - 📫 How to reach me **joshuaazumah6801@gmail.com**
 
