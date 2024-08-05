@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="left">Hi 👋, I'm Azumah Joshua Zilmayee </h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=azumahjoshua&label=Profile%20views&color=0e75b6&style=flat" alt="azumahjoshua" /> </p>
 </div>
-<h3 align="center">I'm passionate about Mathematics Computer Science Software Engineering and Cloud Computing. I'm from Ghana but am currently in Morocco.</h3>
+<h3 align="center">I'm passionate about Mathematics Computer Science Software Engineering and Cloud Computing. I'm from Ghana but am currently in Ghana.</h3>
 
 ### Languages
 
